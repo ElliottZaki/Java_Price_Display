@@ -10,4 +10,4 @@ One holding a non-integer price (such as 15.99)<br />
 Use System.out.printf and the format specifiers (using %) to print a string such as "The price for the item Coffee machine is 15.99"<br />
 
 ## Notes:
-<br />
+Note how the type of variables are specified by, the programmer instead of inferred by the compiler.<br />
